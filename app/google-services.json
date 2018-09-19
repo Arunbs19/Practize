@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "761662381863",
+    "firebase_url": "https://practize-bb161.firebaseio.com",
+    "project_id": "practize-bb161",
+    "storage_bucket": "practize-bb161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761662381863:android:10ce2e99ac1bea97",
+        "android_client_info": {
+          "package_name": "com.example.admin.practize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761662381863-fonim65mku9rv6l7hfefjhil970hld4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.practize",
+            "certificate_hash": "070a31394716daf51dc40d282907acdaa9f7ced1"
+          }
+        },
+        {
+          "client_id": "761662381863-7mov36hcrol14fdgh5an329iq4jn50ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJlMqbrrDJ7_G7m8f73UTyZ8SjOEXph2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761662381863-7mov36hcrol14fdgh5an329iq4jn50ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
